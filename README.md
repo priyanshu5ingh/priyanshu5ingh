@@ -37,24 +37,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshu5ingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Container & Kubernetes Essentials V2](https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png)](https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png)
+## Credly Badges
 
-[![Python Project for AI and Application Development](https://images.credly.com/size/680x680/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png)](https://images.credly.com/size/680x680/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png)
+**Here are my Credly Badges:**
 
-[![Python for Data Science and AI](https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)
-
-[![Linux Commands & Shell Scripting Essentials V2](https://images.credly.com/size/680x680/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png)](https://images.credly.com/size/680x680/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png)
-
-
-[![Git and GitHub Essentials](https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)
-
-
-[![Introduction to Agile Development and Scrum](https://images.credly.com/size/680x680/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png)](https://images.credly.com/size/680x680/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png)
-
-
-[![Introduction to Cloud Computing](https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)](https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)
-
-
-[![DevOps Essentials](https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png)](https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png)
-
+* **Container & Kubernetes Essentials V2:** [![Container & Kubernetes Essentials V2](images/badge1.png)](https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png)
+* **Python Project for AI and Application Development:** [![Python Project for AI and Application Development](images/badge2.png)](https://images.credly.com/size/680x680/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png)
+* **Python for Data Science and AI:** [![Python for Data Science and AI](images/badge3.png)](https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)
+* **Linux Commands & Shell Scripting Essentials V2:** [![Linux Commands & Shell Scripting Essentials V2](images/badge4.png)](https://images.credly.com/size/680x680/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png)
+* **Git and GitHub Essentials:** [![Git and GitHub Essentials](images/badge5.png)](https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)
+* **Introduction to Agile Development and Scrum:** [![Introduction to Agile Development and Scrum](images/badge6.png)](https://images.credly.com/size/680x680/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png)
+* **Introduction to Cloud Computing:** [![Introduction to Cloud Computing](images/badge7.png)](https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)
+* **DevOps Essentials:** [![DevOps Essentials](images/badge8.png)](https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png)
 
