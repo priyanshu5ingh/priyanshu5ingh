@@ -1,3 +1,5 @@
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 # 💫 About Me:
 🔭 I’m currently Studying Computer science and technology with specialization in Devops at Presidency University <br>👯 I’m looking to collaborate on Devops based tools and web Technologies <br>🤝 I’m looking for help with Improvement in my skills and experience in Cloud and Devops based tools <br>🌱 I’m currently learning DSA in Java , Git and GitHub and Web development <br>💬 Ask me about <br>Tech enthusiast, <br>⚡ 
 
