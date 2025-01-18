@@ -50,3 +50,14 @@
 * **Introduction to Cloud Computing:** [![Introduction to Cloud Computing](images/badge7.png)](https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)
 * **DevOps Essentials:** [![DevOps Essentials](images/badge8.png)](https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png)
 
+<p align="center">
+  <a href="https://[https://www.credly.com/users/priyanshu-singh.39749cae/edit]">
+    <img src="https://[https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png]/[Container & Kubernetes Essentials V2:]" alt="[Badge Name]" width="200" height="200">
+  </a>
+</p>
+<p align="center">
+  <a href="https://[your-credly-profile-url]">
+    <img src="https://[image-hosting-service-url]/[your-credly-badge-image2.png]" alt="[Badge Name]" width="200" height="200">
+  </a>
+</p>
+
