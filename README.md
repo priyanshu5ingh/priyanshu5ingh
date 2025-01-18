@@ -27,12 +27,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
-## Earned Badges for My Courses 🎓 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'> 
-  <img src="https://www.credly.com/earner/earned/share/998fc291-9b2f-49b8-b66b-881226789033" width="100px" height="100px" />
-  <img src="URL_TO_YOUR_BADGE_2" width="100px" height="100px" />
-  <img src="URL_TO_YOUR_BADGE_3" width="100px" height="100px" /> <!-- Add more badges as needed -->
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
