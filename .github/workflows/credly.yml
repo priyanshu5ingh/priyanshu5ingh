@@ -1,0 +1,18 @@
+name: "Credly Badges"
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # This checks for updates daily at midnight (can be adjusted)
+
+jobs:
+  credly-badges:
+    name: "Update README with Credly badges"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update
+        uses: mikejoh/credly-badges@main  # You can pin to a specific version if needed (check Releases)
+        with:
+          CREDLY_USERNAME: "https://www.credly.com/users/priyanshu-singh.39749cae"
+          GITHUB_TOKEN: ${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}
+          COMMIT_MESSAGE: "Update Credly badges!"
