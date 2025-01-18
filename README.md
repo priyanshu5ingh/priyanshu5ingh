@@ -27,8 +27,7 @@
 </div>
 ## Earned Badges for My Courses 🎓 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'> 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="998fc291-9b2f-49b8-b66b-881226789033" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <img src="https://www.credly.com/badges/998fc291-9b2f-49b8-b66b-881226789033/public_url" width="100px" height="100px" />
+  <img src="https://www.credly.com/earner/earned/share/998fc291-9b2f-49b8-b66b-881226789033" width="100px" height="100px" />
   <img src="URL_TO_YOUR_BADGE_2" width="100px" height="100px" />
   <img src="URL_TO_YOUR_BADGE_3" width="100px" height="100px" /> <!-- Add more badges as needed -->
 </div>
