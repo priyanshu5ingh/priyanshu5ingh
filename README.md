@@ -37,8 +37,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshu5ingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="998fc291-9b2f-49b8-b66b-881226789033" data-share-badge-host="https://www.credly.com">
-</div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
-</script>
-
+[![Container & Kubernetes Essentials V2](https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png)](https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png)
