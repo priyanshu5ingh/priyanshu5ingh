@@ -49,15 +49,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshu5ingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://www.credly.com/users/priyanshu-singh.39749cae">
-  <img src="https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png" width="100px" height="100px" />
-  <img src="https://images.credly.com/size/680x680/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" width="100px" height="100px" />
-  <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100px" height="100px" />
-  <img src="https://images.credly.com/size/680x680/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="100px" height="100px" />
-  <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="100px" height="100px" />
-  <img src="https://images.credly.com/size/680x680/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="100px" height="100px" />
-  <img src="https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="100px" height="100px" />
-  
-</div>
 
