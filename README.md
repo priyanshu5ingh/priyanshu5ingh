@@ -50,7 +50,7 @@
 [![](https://visitcount.itsvg.in/api?id=priyanshu5ingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <a href="https://twitter.com/priyanshu5ingh5" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu5ingh5?logo=twitter&style=for-the-badge" alt="priyanshu5ingh5" /></a> </p>
 
@@ -59,11 +59,12 @@
 <a href="https://twitter.com/priyanshu5ingh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu5ingh5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu5ingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu5ingh/" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshu5ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu5ingh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pre_b_1341" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshu5ingh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pre_b_1341" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pre_b_1341" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu5ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu5ingh" height="30" width="40" /></a>
 <a href="https://discord.gg/priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="priyanshu" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu5ingh&show_icons=true&locale=en&layout=compact" alt="priyanshu5ingh" /></p>
 
+<h3 align="center">A passionate developer from India</h3>
 
